@@ -77,6 +77,10 @@ html {
   display: none;
 }
 
+#kopkem {
+  display: none;
+}
+
 /* Hero Section */
 
 .hero {
